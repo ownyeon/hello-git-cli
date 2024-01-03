@@ -3,4 +3,8 @@ second
 third - my branch
 four - my branch
 some hot fix
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 9f78610 (새로운 기능 1  추가)
