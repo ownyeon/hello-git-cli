@@ -3,3 +3,4 @@ second
 third - my branch
 four - my branch
 some hot fix
+some hot fix
